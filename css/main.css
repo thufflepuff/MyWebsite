@@ -839,7 +839,7 @@ input[type="button"].btn--primary:focus {
  * ------------------------------------------------- */
 
 .btn.full-width, button.full-width {
-    width: 100%;
+    width: 220%;
     margin-right: 0;
 }
 
